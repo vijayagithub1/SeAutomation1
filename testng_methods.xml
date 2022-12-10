@@ -4,10 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.testng.com.MultipleTests">
-      <methods>
-      <exclude name="dFour"></exclude>
-      </methods>
-  
+             
       </class>
       <class name="com.testng.com.ActionsEx2"></class>
       <class name="com.testng.com.ActionsEx3"></class>
